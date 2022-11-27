@@ -10,3 +10,6 @@ jspm_packages
 
 # Local DynamoDb
 .dynamodb
+
+/node_modules
+/home/bigtim/Desktop/untitled folder 3/cloud-developer/course-04/project/c4-final-project-starter-code/backend/node_modules
